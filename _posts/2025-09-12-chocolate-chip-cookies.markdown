@@ -9,14 +9,22 @@ Here is a recipe for chocolate chip cookies!!!
 `Ingredients`
 
 -2 sticks of softened butter
+
 -2 eggs
+
 -1 c sugar
+
 -1/2 brown sugar
+
 -1 tsp vanilla
+
 -2 c flour
+
 -1 tsp salt
+
 -1 tsp baking soda
--s1/2 bag of semi-sweet chocolate chips
+
+-1/2 bag of semi-sweet chocolate chips
 
 `Steps`
 
