@@ -14,7 +14,7 @@ Here is my recipe for chocolate chip cookies!!!
 
 -1 c sugar
 
--1/2 brown sugar
+-1/2 c brown sugar
 
 -1 tsp vanilla
 
