@@ -4,7 +4,7 @@ title:  "Chocolate Chip Cookies"
 date:   2025-09-12 10:26:38 -0400
 categories: jekyll update
 ---
-Here is a recipe for chocolate chip cookies!!!
+Here is my recipe for chocolate chip cookies!!!
 
 `Ingredients`
 
@@ -38,7 +38,7 @@ Here is a recipe for chocolate chip cookies!!!
 
 5. Form golf-ball sized balls and place onto cookie sheet.
 
-6. Place cookie sheet into oven and bake for 20 mins or until golden brown.s
+6. Place cookie sheet into oven and bake for 20 mins or until golden brown.
 
 7. Enjoy!!!!!!!!
 
