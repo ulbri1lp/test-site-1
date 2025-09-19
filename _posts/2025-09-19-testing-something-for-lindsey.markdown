@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome"
-date: 09-19-2025
+date: 2025-09-19 17:29:00 -0400
 categories: jekyll update
 ---
 # Welcome to my Jekyll website!
