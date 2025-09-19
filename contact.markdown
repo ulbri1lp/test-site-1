@@ -6,7 +6,7 @@ permalink: /cool-space-art/
 
 Lets hope this works. Art from [ASCII Art Archive!!](https://www.asciiart.eu/space)
 
-                                                                    ||
+'                                                                    ||
                                                   __..--".          ||
                                  __..--""`._..--"" . . . .`.        ||
                          __..--"". . . . . . .`. . . . . . .`.      ||
@@ -39,4 +39,4 @@ Lets hope this works. Art from [ASCII Art Archive!!](https://www.asciiart.eu/spa
                  \`|    ._)/   '           `-..--"
                   \\  `---"   /
                    `.       _/
-         _ Seal _    `-..--"
+         _ Seal _    `-..--"'
