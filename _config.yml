@@ -22,8 +22,8 @@ title: Lauren's Test Site
 email: lulbrich@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Test site, goofin around
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ulbri1lp.github.io/test-site-1" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test-site-1/" # the subpath of your site, e.g. /blog
+url: "https://ulbri1lp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: i miss twitter :( elon musk can eat a bag of rocks
 github_username:  ulbri1lp
 
